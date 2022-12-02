@@ -1,3 +1,5 @@
+## Salveee, Eu sou o Miguel Lara.
+
 <div align="center">
   <a href="https://github.com/pedroso-miguell">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=pedroso-miguell&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
