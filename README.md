@@ -28,16 +28,19 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
 
 ###
-  <div align="center">
-  
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pedroso-miguell&count_private=true&theme=algolia&show_icons=true)](https://github.com/pedroso-miguell)
- <img  height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroso-miguell&layout=compact&langs_count=7&theme=algolia"/>
-  </div>
-          
-          
-          
-   </div>
-    
+ <div>
+    <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroso-miguell&layout=pie&theme=transparent&hide_border=true"
+        alt="pedroso-miguell" />
+</div>
+<br />
+<div>
+    &nbsp;<img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=pedroso-miguell&show_icons=true&theme=transparent&hide_border=true"
+        alt="pedroso-miguell" />
+</div>
   
   <h1 align="center">Connect with me</h1>
     <a href="https://www.instagram.com/_miguellaraa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
