@@ -43,6 +43,12 @@
         src="https://github-readme-stats.vercel.app/api?username=pedroso-miguell&show_icons=true&theme=transparent&hide_border=true"
         alt="pedroso-miguell" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrehifran/andrehifran/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrehifran/andrehifran/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andrehifran/andrehifran/output/pacman-contribution-graph.svg">
+</picture>
   
  <h3 align="center">Connect with me:</h3>
 <p align="center">
